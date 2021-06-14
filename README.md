@@ -10,9 +10,9 @@ Command-line event, task, note logger
 
 ### Implementation Details:
 - Small String Parser that assumes
-  ```Event Type: Event description or anything you want to write here```
+  ```Event Type:: Event description or anything you want to write here```
 - Saves to Append-Only File
-  ```Event Type: Description etc // Timestamp in Unix Epoch```
+  ```Event Type :: Description etc || Timestamp in Local Time```
 - Currently no dependencies
 
 ### Future Plans
