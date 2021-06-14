@@ -18,4 +18,5 @@ Command-line event, task, note logger
 ### Future Plans
 
 -[ ] Edit Lines
+
 -[ ] Search Entries from Command Line
